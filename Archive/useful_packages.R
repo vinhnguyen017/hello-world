@@ -1,4 +1,4 @@
-install.packages(c("tidyverse", "lubridate", "reshape2", "zoo")
+install.packages(c("tidyverse", "lubridate", "reshape2", "zoo"))
 
 library(tidyvserse)
 library(lubridate)
